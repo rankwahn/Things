@@ -53,3 +53,12 @@ body{
     border: thin solid white;
     font-family: Counter-Strike, Counter-Strike;
 }
+
+#5v5{
+    color: white;
+    font-family: Counter-Strike;
+    text-align: left;
+    height: 50px;
+    width: 245px;
+
+}
