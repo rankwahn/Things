@@ -8,7 +8,7 @@ body{
 }
 @font-face {
     font-family: Counter-Strike;
-    src: https://rankwahn.github.io/Things/cs_regular.ttf;
+    src: url(https://rankwahn.github.io/Things/cs_regular.ttf);
 }
 #title{
     text-align: center;
