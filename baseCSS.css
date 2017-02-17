@@ -1,7 +1,7 @@
 body{
     width:  980px;
     height: 1080px;
-    border: thin solid;
+    border: thin solid white;
     margin-left: auto;
     margin-right: auto;
     background-image: url(https://www.csgowallpapers.com/assets/images/original/ct_t_background.png);
@@ -15,18 +15,17 @@ body{
     width: 980px;
     height: 45px;
     font-size: 40px;
-    border: thin solid;
+    border: thin solid white;
     margin-left: auto;
     margin-right: auto;
     font-family: Counter-Strike, Counter-Strike;
-    color: white;
 }
 #menuButton1{
     display:table-cell;
     text-align: center;
     height: 50px;
     width: 245px;
-    border: thin solid;
+    border: thin solid white;
     font-family: Counter-Strike, Counter-Strike;
 }
 #menuButton2{
@@ -34,7 +33,7 @@ body{
     text-align: center;
     height: 50px;
     width: 245px;
-    border: thin solid;
+    border: thin solid white;
     font-family: Counter-strike, Counter-strike;
 }
 #menuButton3{
@@ -42,7 +41,7 @@ body{
     text-align: center;
     height: 50px;
     width: 245px;
-    border: thin solid;
+    border: thin solid white;
     font-family: Counter-Strike, Counter-Strike;
 }
 #menuButton4{
@@ -50,8 +49,6 @@ body{
     text-align: center;
     height: 50px;
     width: 245px;
-    border: thin solid;
+    border: thin solid white;
     font-family: Counter-Strike, Counter-Strike;
 }
-
-
