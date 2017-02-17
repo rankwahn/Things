@@ -1,6 +1,7 @@
-#h1{
+h1{
    text-align: center;
-    height: 300px;
-    width: 300px;
-    font-family:Counter-Strike, Counter-Strike;
+   height: 300px;
+   width: 300px;
+   font-family:Counter-Strike, Counter-Strike;
+   color:white;
 }
