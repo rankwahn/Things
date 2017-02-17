@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+    width: 980px;
+    height: 45px;
+    font-size: 40px;
+    border: thin solid;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Counter-Strike, Counter-strike;
+    color: white;
+}
