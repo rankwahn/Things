@@ -2,22 +2,18 @@
 a:link {
     color: white;
 }
-
 /* visited link */
 a:visited {
     color: white;
 }
-
 /* mouse over link */
 a:hover {
     color: gray;
 }
-
 /* selected link */
 a:active {
     color: white;
 }
-
 body{
     width: 980px;
     height: 1080px;
