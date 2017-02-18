@@ -38,7 +38,7 @@ body{
     border: thin solid;
     margin-left: auto;
     margin-right: auto;
-    font-family: Counter-Strike, Counter-Strike;
+    font-family: Counter-Strike, sans-serif, Arial;
     color: white;
 }
 #menuButton1{
@@ -47,7 +47,7 @@ body{
     height: 50px;
     width: 245px;
     border: thin solid white;
-    font-family: Counter-Strike, Counter-Strike;
+    font-family: Counter-Strike, sans-serif;
 }
 #menuButton2{
     display:table-cell;
@@ -55,7 +55,7 @@ body{
     height: 50px;
     width: 245px;
     border: thin solid white;
-    font-family: Counter-strike, Counter-strike;
+    font-family: Counter-Strike, sans-serif;
 }
 #menuButton3{
     display:table-cell;
@@ -63,7 +63,7 @@ body{
     height: 50px;
     width: 245px;
     border: thin solid white;
-    font-family: Counter-Strike, Counter-Strike;
+    font-family: Counter-Strike, sans-serif;
 }
 #menuButton4{
     display:table-cell;
@@ -71,14 +71,14 @@ body{
     height: 50px;
     width: 245px;
     border: thin solid white;
-    font-family: Counter-Strike, Counter-Strike;
+    font-family: Counter-Strike, sans-serif;
 }
 h2{
-    font-family: Counter-Strike, Counter-Strike;
+    font-family: Counter-Strike, sans-serif;
     color:white;
 }
 #5v5{
-    font-family: Counter-Strike, Counter-Strike;
+    font-family: Counter-Strike, sans-serif;
     text-align: left;
     height: 50px;
     width: 245px;
